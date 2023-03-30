@@ -36,6 +36,8 @@
     <div class="container-mini col-md-10 col-12 m-0 border-0 p-2 text-white d-flex aligns-items-center justify-content-center">
         <form class="mt-5 col-10" action ="script_disc_new.php" method="post" enctype="multipart/form-data">
         <div class="row no-gutters align-items-center">
+            <h1 class="display-6">Add New</h1>
+            <hr><br>
             <div class="col-md-6 col-12">
                 <div class="mb-3">
                     <label for="title" class="form-label">Title:</label>
